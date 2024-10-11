@@ -20,6 +20,7 @@ public class MainFrame extends JFrame {
 	private JPanel center_2 = new JPanel();
 	private JPanel center_3 = new JPanel();
 
+	
 	public MainFrame() {
 		this.setBounds(100, 100, 500, 150);
 		title_p.add(t);
